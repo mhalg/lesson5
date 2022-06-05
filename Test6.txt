@@ -1,2 +1,3 @@
 This is test file to check VSCode bindning.
 Update1
+Project "lesson6". VSCode binded to GitHub account.
